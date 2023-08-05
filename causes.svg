@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="fl-layout-svg-screenshot-container"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 722 575"
+	 overflow="visible" xml:space="preserve">
+<rect x="-73" y="-45" fill="#231F20" stroke="#000000" stroke-miterlimit="10" width="861" height="664"/>
+<rect x="10.5" y="10.5" fill="none" width="701" height="554"/>
+<rect x="10.5" y="10.5" fill="none" width="701" height="554"/>
+<g>
+	<polygon fill="#EEEEEE" fill-opacity="0" points="361,10.5 361,10.5 361,10.5 	"/>
+</g>
+<rect x="10.5" y="10.5" display="none" fill="none" stroke="#FF0000" width="701" height="554"/>
+<rect x="10.5" y="10.5" fill="none" width="701" height="554"/>
+<rect x="10.5" y="10.5" fill-opacity="0" width="701" height="554"/>
+<image width="702" height="555" xlink:href="9DC63AE1B88BEA80.png"  transform="matrix(1 0 0 1 10 10)">
+</image>
+<image width="704" height="557" xlink:href="9DC63AE1B88BEA86.png"  transform="matrix(1 0 0 1 9 9)">
+</image>
+<image width="702" height="555" xlink:href="9DC63AE1B88BEA82.png"  transform="matrix(1 0 0 1 10 10)">
+</image>
+<g id="areas">
+</g>
+<g id="lines">
+</g>
+<path id="point-0-0" fill="#A53D2E" d="M361,10.5c152.983,0,277,124.018,276.999,277.001c0,152.983-124.018,277-277.001,276.999
+	c-88.669,0-171.978-42.449-224.097-114.183L361,287.5V10.5z"/>
+<path id="point-0-1" fill="#E5CD2F" d="M136.902,450.317c-89.921-123.766-62.485-296.993,61.28-386.914
+	C245.507,29.019,302.503,10.5,361,10.5v277L136.902,450.317z"/>
+<g id="lines-secondary">
+</g>
+<g id="data-points-secondary">
+</g>
+<g id="axes-highlights">
+	<g>
+		<g transform="">
+		</g>
+	</g>
+</g>
+<g id="data-point-labels">
+	<g transform="translate(0,0)">
+		<g transform="translate(473.9043884277344, 339.877685546875)">
+			<text transform="matrix(1 0 0 1 -72.6925 -0.6345)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="18.4905px">Struck by something</text>
+			<text transform="matrix(1 0 0 1 3.0692 29.9338)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="18.4905px">13</text>
+		</g>
+		<g transform="translate(227.09559631347656, 214.122314453125)">
+			<text transform="matrix(1 0 0 1 -118.7542 20.6106)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="15.2169px">Lost balance and fell onto tracks</text>
+			<text transform="matrix(1.0608 0 0 1 -3.9667 43.8777)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14.345px">7</text>
+		</g>
+	</g>
+</g>
+<g id="stack-labels">
+</g>
+</svg>
